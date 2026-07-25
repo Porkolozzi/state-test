@@ -1,0 +1,12 @@
+﻿BUILDINGS = {
+    s:STATE_MAINE = {
+        region_state:USA = {
+            remove_building = building_government_administration
+            remove_building = building_furniture_manufactory
+            remove_building = building_logging_camp
+            remove_building = building_shipyard
+            remove_building = building_fishing_wharf
+            remove_building = building_port
+        }
+    }
+}

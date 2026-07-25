@@ -1,0 +1,15 @@
+﻿POPS = {
+    s:STATE_MAINE = {
+        region_state:USA = {
+            kill_population_percent_in_state = {
+                percent = 1
+            }
+        }
+        region_state:FRA = {
+            create_pop = {
+                culture = french
+                size = 100000
+            }
+        }
+    }
+}
