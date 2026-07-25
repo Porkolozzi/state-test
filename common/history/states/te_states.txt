@@ -8,3 +8,5 @@
 		add_homeland = cu:yankee
 	}
 }
+
+## REMEMBER FOR FUTURE USE TO REMOVE ONE OF THE PROVINCES ##
